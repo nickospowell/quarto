@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c4c805c6-cee7-4ace-af30-0253a808a464
+      url: 'https://nosp41.quarto.pub/a-new-website'
