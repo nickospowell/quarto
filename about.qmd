@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-Nicholas Powell
+## About Me
+My name is **Nicholas Powell**, and I want to go into *Computer Science*.
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
