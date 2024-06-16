@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "My name is Nicholas Powell, and I want to go into Computer Science. Kane’s Free Data Science Bootcamp"
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "An overview of sources used in my project. These are my sources. Here are some challenges. Quarto websites are awesome."
   }
 ]
